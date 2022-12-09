@@ -18,5 +18,5 @@ Repository tugas-kelompok-terserah created by GitHub Classroom
 ## Tugas 2: Implementasi RL, GA, dan PSO
 
 - [Implementasi _Reinforcement Learning_](/4.%20Implementasi%20RL/)
-- [Implementasi _Genetic Algorithm_](/5.%Implementasi%20GA/)
+- [Implementasi _Genetic Algorithm_](/5.%20Implementasi%20GA/)
 - [Implementasi _Particle Swarm Optimization_]()
